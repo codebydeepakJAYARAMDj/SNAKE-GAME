@@ -23,8 +23,6 @@
 6. [Game Mechanics](#game-mechanics)
 7. [Customization](#customization)
 8. [Technical Details](#technical-details)
-9. [Future Improvements](#future-improvements)
-10. [License](#license)
 
 ## Description
 This is a classic Snake game implemented in C++ using Windows Console API. The game features a snake that grows in length as it eats food, with increasing difficulty through obstacles and speed levels.
